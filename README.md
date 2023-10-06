@@ -7,11 +7,11 @@
 ```
 
 HyeongMinKim
-  |---baekjoon
-  |---programmers
+  |---week01
+  |---week02
 JangHoonPark
-  |---baekjoon
-  |---programmers
+  |---week01
+  |---week02
   
 ```
 
