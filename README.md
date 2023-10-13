@@ -30,12 +30,20 @@ JangHoonPark
   |소문난 칠공주|[바로가기](https://www.acmicpc.net/problem/1941)|
   
   
-  ### 2주차(23.10.05 ~ 23.10.12)
+  ### 2주차(23.10.06 ~ 23.10.12)
   |문제|링크 이동|
   |:---:|:---:|
   |마법사 상어와 파이어볼|[바로가기](https://www.acmicpc.net/problem/20056)|
   |현수막|[바로가기](https://www.acmicpc.net/problem/14716)|
   |개미굴|[바로가기](https://www.acmicpc.net/problem/14725)|
+
+
+  ### 3주차(23.10.13 ~ 23.10.19)
+  |문제|링크 이동|
+  |:---:|:---:|
+  |색상환|[바로가기](https://www.acmicpc.net/problem/2482)|
+  |수열|[바로가기](https://www.acmicpc.net/problem/2559)|
+  |Z|[바로가기](https://www.acmicpc.net/problem/1074)|
   
   </div>
 </details>
