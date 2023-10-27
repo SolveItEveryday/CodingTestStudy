@@ -55,6 +55,21 @@ JangHoonPark
   </div>
 </details>
 
+<details>
+  <summary><b>5 ~ 8주차</b></summary>
+  <div markdown="1">
+  
+  ### 5주차(23.10.27 ~ 23.11.02)
+  |문제|링크 이동|
+  |:---:|:---:|
+  |오목 판정|[바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ&categoryId=AXaSUPYqPYMDFASQ&categoryType=CODE&problemTitle=11315&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|
+  |유효숫자 표기|[바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXCjn9TKJmUDFAX0&categoryId=AXCjn9TKJmUDFAX0&categoryType=CODE&problemTitle=9658&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|
+  |진기의 최고급 붕어빵|[바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LsaaqDzYDFAXc&categoryId=AV5LsaaqDzYDFAXc&categoryType=CODE&problemTitle=1860&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|
+  
+  
+  </div>
+</details>
+
 
 ## 📐 2. 커밋 규칙
 
