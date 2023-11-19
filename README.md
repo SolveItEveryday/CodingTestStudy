@@ -79,6 +79,13 @@ JangHoonPark
   |민석이의 과제 체크하기|[바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl3rWKDBYDFAXm&categoryId=AWVl3rWKDBYDFAXm&categoryType=CODE&problemTitle=5431&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|
   |삼성시의 버스 노선|[바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn&categoryId=AWczm7QaACgDFAWn&categoryType=CODE&problemTitle=6485&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|
   |햄버거 다이어트|[바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|
+
+  ### 8주차(23.11.17 ~ 23.11.23)
+  |문제|링크 이동|
+  |:---:|:---:|
+  |신기한 소수|[바로가기](https://www.acmicpc.net/problem/2023)|
+  |1학년|[바로가기](https://www.acmicpc.net/problem/5557)|
+  |종이 조각|[바로가기](https://www.acmicpc.net/problem/14391)|
   
   </div>
 </details>
