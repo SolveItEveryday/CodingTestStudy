@@ -85,7 +85,7 @@ JangHoonPark
   |:---:|:---:|
   |신기한 소수|[바로가기](https://www.acmicpc.net/problem/2023)|
   |1학년|[바로가기](https://www.acmicpc.net/problem/5557)|
-  |종이 조각|[바로가기](https://www.acmicpc.net/problem/14391)|
+  |스케이트 연습|[바로가기](https://www.acmicpc.net/problem/28324)|
   
   </div>
 </details>
