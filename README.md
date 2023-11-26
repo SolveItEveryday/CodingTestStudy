@@ -90,6 +90,20 @@ JangHoonPark
   </div>
 </details>
 
+<details>
+  <summary><b>9 ~ 12주차</b></summary>
+  <div markdown="1">
+  
+  ### 9주차(23.11.24 ~ 23.11.30)
+  |문제|링크 이동|
+  |:---:|:---:|
+  |치킨 배달|[바로가기](https://www.acmicpc.net/problem/15686)|
+  |사이클|[바로가기](https://www.acmicpc.net/problem/2526)|
+  |줄서기|[바로가기](https://www.acmicpc.net/problem/14864)|
+  
+  </div>
+</details>
+
 
 ## 📐 2. 커밋 규칙
 
