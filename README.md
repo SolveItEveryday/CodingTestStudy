@@ -98,7 +98,7 @@ JangHoonPark
   |문제|링크 이동|
   |:---:|:---:|
   |치킨 배달|[바로가기](https://www.acmicpc.net/problem/15686)|
-  |사이클|[바로가기](https://www.acmicpc.net/problem/2526)|
+  |싸이클|[바로가기](https://www.acmicpc.net/problem/2526)|
   |줄서기|[바로가기](https://www.acmicpc.net/problem/14864)|
   
   </div>
